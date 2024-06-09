@@ -1,0 +1,18 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "soukaina",
+      "mailUtilisateur": "soukaina.larabi@hotmail.com",
+      "motDePasseUtilisateur": "123456",
+      "motDePasseConfirmationUtilisateur": "123456",
+      "id": "Qj_egjh"
+    },
+    {
+      "nomUtilisateur": "soukaina",
+      "mailUtilisateur": "soukaina.larabi44@gmail.com",
+      "motDePasseUtilisateur": "123457",
+      "motDePasseConfirmationUtilisateur": "123457",
+      "id": "KDoZ5aA"
+    }
+  ]
+}
