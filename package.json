@@ -12,6 +12,9 @@
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@mui/icons-material": "^5.15.19",
     "@mui/material": "^5.15.19",
     "axios": "^1.7.2",
     "json-server": "^1.0.0-beta.1",
@@ -19,7 +22,9 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.5",
     "react-hot-toast": "^2.4.1",
-    "react-router-dom": "^6.23.1"
+    "react-router-dom": "^6.23.1",
+    "react-swipeable-views": "^0.14.0",
+    "react-swipeable-views-utils": "^0.14.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",

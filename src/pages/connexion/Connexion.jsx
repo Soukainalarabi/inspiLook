@@ -21,7 +21,7 @@ export default function Connexion() {
         axios.get(`http://localhost:3000/utilisateurs?mailUtilisateur=${data.mailUtilisateur}&motDePasseUtilisateur=${data.motDePasseUtilisateur}`).then((res)=>{
             if(res.data.length>0){
                 localStorage.setItem("utilisateur",JSON.stringify(res.data[0]))
-                navigate("/")
+                navigate("/accueil")
             }else{
                 toast.error("les identifiants sont incorrects")
             }

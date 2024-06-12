@@ -14,5 +14,95 @@
       "motDePasseConfirmationUtilisateur": "123457",
       "id": "KDoZ5aA"
     }
+  ],
+  "vetements":[
+    {
+      "id": 1,
+      "name": "Classic T-Shirt",
+      "category": "T-Shirt",
+      "description": "Un t-shirt classique en 100% coton.",
+      "price": 19.99,
+      "size": "M",
+      "color": "Red",
+      "stock": 50,
+      "image_url": "https://unsplash.com/fr/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k"
+  },
+  {
+      "id": 2,
+      "name": "Classic T-Shirt",
+      "category": "T-Shirt",
+      "description": "Un t-shirt classique en 100% coton.",
+      "price": 19.99,
+      "size": "L",
+      "color": "Blue",
+      "stock": 30,
+      "image_url": "https://unsplash.com/fr/photos/chemise-grise-pendue-sur-mur-blanc-AqLIkOzWDAk"
+  },
+  {
+      "id": 3,
+      "name": "Slim Fit Jeans",
+      "category": "Pants",
+      "description": "Jeans slim fit avec une élasticité confortable.",
+      "price": 49.99,
+      "size": "32",
+      "color": "Dark Blue",
+      "stock": 20,
+      "image_url": "http://example.com/images/slim-fit-jeans.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Regular Fit Jeans",
+      "category": "Pants",
+      "description": "Jeans regular fit avec un look classique.",
+      "price": 39.99,
+      "size": "34",
+      "color": "Black",
+      "stock": 40,
+      "image_url": "http://example.com/images/regular-fit-jeans.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Summer Tank Top",
+      "category": "T-Shirt",
+      "description": "Débardeur léger parfait pour l'été.",
+      "price": 15.99,
+      "size": "S",
+      "color": "White",
+      "stock": 100,
+      "image_url": "https://unsplash.com/fr/photos/femme-souriante-en-t-shirt-imprime-noir-et-blanc-VW5VjskNXZ8"
+  },
+  {
+      "id": 6,
+      "name": "Chino Pants",
+      "category": "Pants",
+      "description": "Pantalon chino confortable et élégant.",
+      "price": 35.99,
+      "size": "M",
+      "color": "Khaki",
+      "stock": 25,
+      "image_url": "http://example.com/images/chino-pants.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Graphic Tee",
+      "category": "T-Shirt",
+      "description": "T-shirt avec un design graphique cool.",
+      "price": 25.99,
+      "size": "XL",
+      "color": "Black",
+      "stock": 60,
+      "image_url": "https://unsplash.com/fr/photos/t-shirt-a-col-rond-noir-pour-femme-et-jean-en-denim-bleu-hgtWvsq5e2c"
+  },
+  {
+      "id": 8,
+      "name": "Cargo Pants",
+      "category": "Pants",
+      "description": "Pantalon cargo fonctionnel avec plusieurs poches.",
+      "price": 45.99,
+      "size": "L",
+      "color": "Olive",
+      "stock": 10,
+      "image_url": "http://example.com/images/cargo-pants.jpg"
+  }
   ]
 }
