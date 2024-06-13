@@ -11,9 +11,9 @@
 </div>
 
 
-# inspiLook
+# FashionLook
 
-InspiLook est une boutique en ligne dédiée à la mode et aux vêtements. Ce projet vise à transformer l'expérience utilisateur en modernisant l'application existante vers React, offrant ainsi une solution plus stable et performante.
+FashionLook est une boutique en ligne dédiée à la mode et aux vêtements. Ce projet vise à transformer l'expérience utilisateur en modernisant l'application existante vers React, offrant ainsi une solution plus stable et performante.
 
 
 ## Technologies
@@ -25,7 +25,7 @@ InspiLook est une boutique en ligne dédiée à la mode et aux vêtements. Ce pr
 ## Installation du Projet
 Clonez le dépôt:
 
-git clone https://github.com/Soukainalarabi/inspiLook.git
+git clone https://github.com/Soukainalarabi/FashionLook.git
 
 ### Installation des Dépendances Front-End
 Installez toutes les dépendances pour le front-end:

@@ -278,7 +278,7 @@ const home=()=>{
             sx={{ display: { xs: 'none', sm: 'block', width: "30%" ,cursor:"pointer"} }}
             onClick={home}
           >
-            InspiLook
+            FashionLook
           </Typography>
           <Search>
             <SearchIconWrapper>
