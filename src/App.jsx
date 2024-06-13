@@ -16,7 +16,7 @@ export default function App() {
     <div >
      
 <Navbar/>  
-{isAccueil?<Caroussel/>:<Outlet /> }
+{isAccueil?<Caroussel/> :<Outlet /> }
 
 
 </div>
